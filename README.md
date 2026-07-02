@@ -1,6 +1,6 @@
 <div align="center">
   <b>🔥 全网最全加密货币资源库,币圈导航站：<a href="https://www.0xnav.com" target="_blank">www.0xnav.com</a> 🔥</b></br>
-  <b>🔥 加密货币电报交流群：<a href="https://t.me/jmhbgroup" target="_blank">https://t.me/jmhbgroup</a> 🔥</b>
+  <b>🔥 全网最大加密货币电报交流群：<a href="https://t.me/jmhbgroup" target="_blank">https://t.me/jmhbgroup</a> 🔥</b>
   </br></br>
 <img width="1378" height="645" alt="image" src="https://github.com/user-attachments/assets/6f57308b-977c-46a5-8bc4-fa29bc45342e" />
 
